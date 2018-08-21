@@ -1,0 +1,21 @@
+{
+  "name": "@astro-my/apm-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Rahul Khanna",
+  "repository": "https://github.com/khanna91/apm-js.git",
+  "dependencies": {
+    "elastic-apm-js-base": "^0.10.3"
+  },
+  "devDependencies": {
+    "eslint": "^5.3.0",
+    "eslint-config-astro": "^1.0.3",
+    "eslint-plugin-import": "^2.14.0"
+  },
+  "keywords": [
+    "apm",
+    "javascript",
+    "frontend"
+  ]
+}
